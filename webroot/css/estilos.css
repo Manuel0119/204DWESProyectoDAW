@@ -22,10 +22,10 @@ body{
     height: 45px;
     padding: 1em;
     margin-left: 2em;
-    transition: transform .3s; 
+    transition: transform .3s;
 }
 #logo:hover{
-    transform: scale(1.1); 
+    transform: scale(1.1);
     padding: 1em;
 }
 .encabezado > a, .container a{
@@ -37,7 +37,7 @@ body{
     padding: 1em;
 }
 .container a{
-    color: #6CD7BD; 
+    color: #6CD7BD;
     margin: 0;
     padding: 0;
 }
@@ -97,6 +97,10 @@ footer{
 footer p{
     margin: 0;
     width: 30%;
+}
+#proyectoFinal{
+    color: white;
+    margin-right: 15px;
 }
 #imagenfondo{
     display: block;
